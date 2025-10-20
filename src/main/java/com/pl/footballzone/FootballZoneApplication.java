@@ -8,6 +8,7 @@ public class FootballZoneApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FootballZoneApplication.class, args);
+        System.out.println("Welcome to my world");
     }
 
 }
